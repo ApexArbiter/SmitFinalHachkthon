@@ -1,1 +1,1 @@
-export const API_URL = "http://192.168.100.5:6969/api";
+export const API_URL = "https://hackathon-seven-teal.vercel.app/api";
